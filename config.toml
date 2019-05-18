@@ -1,4 +1,4 @@
-baseurl                 = "https://example.com/"
+baseurl                 = "/"
 DefaultContentLanguage  = "en"
 title                   = "Hugo Future Imperfect Slim"
 theme                   = "hugo-future-imperfect-slim"
@@ -26,8 +26,8 @@ disableLanguages        = [""]
   readingTime           = true
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, stumbleupon, pinterest, email
-  socialShare           = ["twitter", "facebook", "reddit", "linkedin",
-                          "stumbleupon", "pinterest", "email"]
+  socialShare           = ["twitter", "facebook", "linkedin", "instagram"]
+
 
   [params.meta]
     # Sets the meta tag description
@@ -46,7 +46,7 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Erkel Travel"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
@@ -56,22 +56,22 @@ disableLanguages        = [""]
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "Erkel Travel"
+    paragraph             = "“Life is short and the world is wide”"
     rssIntro              = true
     socialIntro           = true
 
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/main/logo.jpg"
+      src                 = "/img/main/erkel_profile.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape               = "circle"
-      width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      shape               = "triangle"
+      width               = "210"
+      alt                 = "Erkel"
 
   [params.sidebar]
-    about               = "test"
+    about               = "Join us while we go explore. Next stop Europe... "
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
@@ -220,7 +220,7 @@ disableLanguages        = [""]
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = ""
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -228,7 +228,7 @@ disableLanguages        = [""]
   codepen               = ""
   # Visual Art Communities
   deviantart            = ""
-  flickr                = "example"
+  flickr                = ""
   behance               = ""
   dribbble              = ""
   # Publishing Communities
@@ -236,14 +236,14 @@ disableLanguages        = [""]
   medium                = ""
   # Professional/Business Oriented Communities
   linkedin              = "example"
-  linkedin_company      = "examplebusiness"
+  linkedin_company      = ""
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
   # Social Networks
   facebook              = "example"
   googleplus            = ""
-  reddit                = "example"
+  reddit                = ""
   quora                 = ""
   youtube               = ""
   vimeo                 = ""
@@ -256,14 +256,14 @@ disableLanguages        = [""]
   twitter               = "example"
   skype                 = ""
   snapchat              = ""
-  pinterest             = "example"
-  telegram              = "example"
+  pinterest             = ""
+  telegram              = ""
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  researchgate          = "example"
+  researchgate          = ""
   # Email
-  email                 = "example"
+  email                 = ""
 
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2

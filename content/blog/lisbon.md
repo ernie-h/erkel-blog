@@ -1,13 +1,13 @@
 +++
-author = "Hugo Future Imperfect Slim"
-categories = ["Markdown"]
-date = "2019-01-01"
-description = "Markdown and Shortcode Examples"
-featured = ""
-featuredalt = ""
-featuredpath = ""
+author = "Nicole Lee"
+categories = ["Europe", "Portugal", "Lisbon"]
+date = "2019-05-09"
+description = "“By day Lisbon has a naive theatrical quality that enchants and captivates, but by night it is a fairy-tale city, descending over lighted terraces to the sea, like a woman in festive garments going down to meet her dark lover.” ― Erich Maria Remarque "
+featured = "lisbon_hero.jpg"
+featuredalt = "Lisbon coast"
+featuredpath = "date"
 linktitle = ""
-title = "Markdown and Shortcodes"
+title = "Lisbon: Narrow streets and torched tarts"
 type = "post"
 
 +++
